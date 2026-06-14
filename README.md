@@ -1,10 +1,10 @@
 
-https://github.com/user-attachments/assets/d50b953c-51d6-466e-9a54-0b9c62148f06
 # PokeRaid - Backend
 
 PokeRaid는 NestJS 기반의 게임 서버 백엔드입니다. 사용자 인증, Redis 기반 세션, 게임방 구조 등을 포함하며 웹소켓 기반 실시간 통신을 지원합니다.
 https://github.com/user-attachments/assets/7284c00d-4bc1-4994-bad7-b7efc2bdb533
 ---
+https://github.com/user-attachments/assets/d50b953c-51d6-466e-9a54-0b9c62148f06
 
 ## ✅ 기술 스택
 
